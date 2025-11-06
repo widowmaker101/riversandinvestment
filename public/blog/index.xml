@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on My New Hugo Site</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on My New Hugo Site</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Nov 2025 15:56:14 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agriculture Investment</title>
+      <link>http://localhost:1313/blog/agriculture-investment/</link>
+      <pubDate>Thu, 06 Nov 2025 15:56:14 +0100</pubDate>
+      <guid>http://localhost:1313/blog/agriculture-investment/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;date-2025-11-06&#34;&gt;title: &amp;ldquo;Why Agriculture Is the Future&amp;rdquo;
+date: 2025-11-06&lt;/h2&gt;
+&lt;p&gt;Smart investments in agriculture can yield long-term growth and sustainability.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

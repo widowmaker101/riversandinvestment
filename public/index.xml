@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome to Riversand Investment Company on My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to Riversand Investment Company on My New Hugo Site</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Nov 2025 15:56:14 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agriculture Investment</title>
+      <link>http://localhost:1313/blog/agriculture-investment/</link>
+      <pubDate>Thu, 06 Nov 2025 15:56:14 +0100</pubDate>
+      <guid>http://localhost:1313/blog/agriculture-investment/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;date-2025-11-06&#34;&gt;title: &amp;ldquo;Why Agriculture Is the Future&amp;rdquo;
+date: 2025-11-06&lt;/h2&gt;
+&lt;p&gt;Smart investments in agriculture can yield long-term growth and sustainability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Meet the Team</title>
+      <link>http://localhost:1313/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Charlie Ogbonnia – CEO&lt;/li&gt;
+&lt;li&gt;John Smith – Head of Strategy&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Our Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Investment Advisory&lt;/li&gt;
+&lt;li&gt;Corporate Finance&lt;/li&gt;
+&lt;li&gt;Sustainable Investing&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
